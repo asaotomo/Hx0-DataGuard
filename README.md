@@ -25,7 +25,7 @@ Hx0 数据卫士是由Hx0战队开发的一款运行在浏览器中的**本地**
 
 所有扫描与检测结果默认保存在**您的电脑本地**，不上传页面正文，适合个人办公防护、安全自检与报告归档。
 
-<img width="1672"  alt="Hx0 数据卫士-宣传海报-zh" src="https://github.com/user-attachments/assets/800edc28-cdd6-4e56-96b9-d94d3a98e786" />
+<img  alt="Hx0 数据卫士-宣传海报-zh" src="https://github.com/user-attachments/assets/800edc28-cdd6-4e56-96b9-d94d3a98e786" />
 
 ---
 
@@ -90,13 +90,13 @@ Hx0 数据卫士是由Hx0战队开发的一款运行在浏览器中的**本地**
 > 开启方式：扩展弹窗打开「输入与发送监测」和「剪切板粘贴监测」，在侧栏「设置」中选择提醒或拦截力度。
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/2ade8374-64d0-48ad-9e52-841a7be061f1" />
+<img alt="image" src="https://github.com/user-attachments/assets/2ade8374-64d0-48ad-9e52-841a7be061f1" />
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/3f342c80-550d-4c96-954d-84939d270f00" />
+<img alt="image" src="https://github.com/user-attachments/assets/3f342c80-550d-4c96-954d-84939d270f00" />
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/81b9c173-647e-424c-bd71-7667166298c7" />
+<img alt="image" src="https://github.com/user-attachments/assets/81b9c173-647e-424c-bd71-7667166298c7" />
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/2952f37e-c75b-4951-b6a2-5dc71e954b62" />
+<img alt="image" src="https://github.com/user-attachments/assets/2952f37e-c75b-4951-b6a2-5dc71e954b62" />
 
 
 ---
@@ -115,23 +115,25 @@ Hx0 数据卫士是由Hx0战队开发的一款运行在浏览器中的**本地**
 这样可以在不搭建复杂工具链的情况下，**更快发现授权网站里不必要的暴露点**，帮助网站减少攻击面、降低安全风险。
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/fad1cf1e-457b-4add-872a-78ee4daed717" />
+<img  alt="image" src="https://github.com/user-attachments/assets/fad1cf1e-457b-4add-872a-78ee4daed717" />
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/462825d8-2b33-4638-bea9-06ec32cbf89d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/462825d8-2b33-4638-bea9-06ec32cbf89d" />
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/f4bfff9d-f009-4630-9901-aef574f8391a" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f4bfff9d-f009-4630-9901-aef574f8391a" />
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/4d4984b9-625f-4b71-9f94-4556d86f060a" />
+<img  alt="image" src="https://github.com/user-attachments/assets/4d4984b9-625f-4b71-9f94-4556d86f060a" />
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/743f683d-3dfb-4c43-b2c5-c818b262c811" />
+<img  alt="image" src="https://github.com/user-attachments/assets/743f683d-3dfb-4c43-b2c5-c818b262c811" />
 
 
-<img width="1956"  alt="image" src="https://github.com/user-attachments/assets/7c6c4274-b6f6-403f-9c0c-8a5933b51145" />
+<img  alt="image" src="https://github.com/user-attachments/assets/7c6c4274-b6f6-403f-9c0c-8a5933b51145" />
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ac83d65-cdf2-41dc-8e22-20462e6b4394" />
 
 
 > 请仅在您拥有测试授权的系统、页面或靶场中使用扫描与探测能力；命中结果需人工复核，避免把注释诱饵或测试样例误判为真实泄漏。
