@@ -1,6 +1,6 @@
 # Hx0 数据卫士（Hx0 DataGuard）
 
-[![Chrome 应用商店](https://img.shields.io/badge/Chrome%20应用商店-v1.0.1-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
+[![Chrome 应用商店](https://img.shields.io/badge/Chrome%20应用商店-v1.0.2-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
 ![Firefox AMO](https://img.shields.io/badge/Firefox%20AMO-审核中-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
 ![形态](https://img.shields.io/badge/形态-浏览器扩展-007AFF?style=flat-square)
 ![计算](https://img.shields.io/badge/计算-本地运行-4CAF50?style=flat-square)
@@ -14,7 +14,7 @@
 
 > 浏览器里的本地安全助手 —— 扫描页面风险、发现可疑路径、实时防输入泄漏，一键导出报告。
 
-**现已上线 [Chrome 应用商店](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)**（当前版本 1.0.1）· Firefox 版已提交审核，不久上线
+**现已上线 [Chrome 应用商店](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)**（当前版本 1.0.2）· Firefox 版已提交审核，不久上线
 
 ## 它是什么
 
