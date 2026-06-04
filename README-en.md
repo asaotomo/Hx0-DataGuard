@@ -1,6 +1,6 @@
 # Hx0 DataGuard
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.0.4-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.0.5-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
 ![Firefox AMO](https://img.shields.io/badge/Firefox%20AMO-In%20Review-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
 ![Form](https://img.shields.io/badge/Form-Browser%20Extension-007AFF?style=flat-square)
 ![Compute](https://img.shields.io/badge/Compute-Local%20First-4CAF50?style=flat-square)
@@ -14,7 +14,7 @@
 
 > Your local security assistant in the browser — scan page risks, discover suspicious paths, guard against input leaks, and export reports in one click.
 
-**Now on the [Chrome Web Store](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)** (v1.0.4) · Firefox add-on submitted for review — coming soon
+**Now on the [Chrome Web Store](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)** (v1.0.5) · Firefox add-on submitted for review — coming soon
 
 ## What It Is
 
