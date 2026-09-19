@@ -1,7 +1,7 @@
 # Hx0 数据卫士（Hx0 DataGuard）
 
 [![Chrome 应用商店](https://img.shields.io/badge/Chrome%20应用商店-v1.0.7-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
-![Firefox AMO](https://img.shields.io/badge/Firefox%20AMO-审核中-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
+![Firefox 应用商店](https://img.shields.io/badge/Firefox%20AMO-应用商店-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
 ![形态](https://img.shields.io/badge/形态-浏览器扩展-007AFF?style=flat-square)
 ![计算](https://img.shields.io/badge/计算-本地运行-4CAF50?style=flat-square)
 ![隐私](https://img.shields.io/badge/隐私-不上传页面正文-0D9488?style=flat-square)
@@ -18,13 +18,13 @@
 
 > 浏览器里的本地安全助手 —— 扫描页面风险、识别钓鱼邮件、实时防输入泄漏，一键导出报告。
 
-**现已上线 [Chrome 应用商店](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)**（项目版本 1.0.7）· Firefox 1.0.7 版已提交审核，不久上线 · Firefox 1.0.3 版已上线
+**现已上线 [Chrome 应用商店](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)**（项目版本 1.0.7）· **[Firefox 应用商店](https://addons.mozilla.org/zh-CN/firefox/addon/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/)**（项目版本 1.0.7）
 
 ## 它是什么
 
 Hx0 数据卫士是一款运行在浏览器中的**本地**安全辅助检测扩展。您在日常浏览网页和使用邮箱时，它可以在后台帮您做三件事：
 
-<img width="1672" height="941" alt="1 0 7-zh" src="https://github.com/user-attachments/assets/5e65f5b4-41c5-4b1f-b0d5-e0cd6ab90ee9" />
+<img width="1672" height="941" alt="1 0 7-o" src="https://github.com/user-attachments/assets/0d836b64-8b84-4c92-931b-094de663f09c" />
 
 
 - **往外看**：扫描当前页面和脚本，找出明文暴露的敏感数据与 API 接口线索
@@ -239,9 +239,6 @@ Hx0 数据卫士为**付费软件**，完整功能需开通 VIP 会员。
 
 **重装后会员找不回？**  
 请用安装时备份的用户 ID 联系客服协助迁移；无法提供旧 ID 时可能无法找回。
-
-**Firefox 版什么时候能用？**  
-Firefox 版已提交 AMO 商店审核，通过后会在 README 与 Releases 更新链接。审核期间请耐心等待正式上架版本。
 
 ---
 
