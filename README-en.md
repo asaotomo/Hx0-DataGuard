@@ -1,7 +1,7 @@
 # Hx0 DataGuard
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.0.7-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
-![Firefox AMO](https://img.shields.io/badge/Firefox%20AMO-Under%20Review-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
+![Firefox AMO](https://img.shields.io/badge/Firefox%20AMO-v1.0.7-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
 ![Form](https://img.shields.io/badge/Form-Browser%20Extension-007AFF?style=flat-square)
 ![Computation](https://img.shields.io/badge/Computation-Local%20Processing-4CAF50?style=flat-square)
 ![Privacy](https://img.shields.io/badge/Privacy-No%20Page%20Content%20Upload-0D9488?style=flat-square)
@@ -18,13 +18,13 @@
 
 > A local security assistant in your browser — scan pages for risks, identify phishing emails, prevent input leaks in real time, and export reports with one click.
 
-**Now available on the [Chrome Web Store](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)** (project version 1.0.7) · Firefox v1.0.7 submitted for review, launching soon · Firefox v1.0.3 now available
+**Now available on the [Chrome Web Store](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)** (project version 1.0.7) · **Now available on the [Firefox AMO](https://addons.mozilla.org/en-US/firefox/addon/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/)** (project version 1.0.7)
 
 ## What It Is
 
 Hx0 DataGuard is a **local** security assistant extension that runs in your browser. As you browse the web and use your mailbox every day, it quietly does three things for you in the background:
 
-<img width="1672" height="941" alt="1 0 7-en" src="https://github.com/user-attachments/assets/dc64b230-b3fc-4fc9-a42f-32eed6389ec2" />
+<img width="1672" height="941" alt="1 0 7-en1" src="https://github.com/user-attachments/assets/a32e6752-e326-4b72-a0f9-11d2d74ebbde" />
 
 
 - **Looks outward**: scans the current page and its scripts to find sensitive data exposed in plaintext and clues about API endpoints
@@ -149,9 +149,9 @@ The latest version is officially available on the Chrome Web Store — **one-cli
 
 👉 **[Install Hx0 DataGuard from the Chrome Web Store](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)**
 
-Version 1.0.3 is officially available on Firefox Add-ons — **one-click install with automatic updates**, no manual extraction or developer mode required.
+The latest version is officially available on Firefox Add-ons — **one-click install with automatic updates**, no manual extraction or developer mode required.
 
-👉 **[Install Hx0 DataGuard from Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/addon/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/)**
+👉 **[Install Hx0 DataGuard from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/)**
 
 For the Firefox browser. After installation, pin the extension icon to the toolbar to get started.
 
@@ -239,9 +239,6 @@ Check whether "Input & send monitoring" is enabled in the popup, and whether the
 
 **Can't recover membership after reinstalling?**  
 Contact customer support with the User ID you backed up at installation; recovery may not be possible if you cannot provide the old ID.
-
-**When will the Firefox version be available?**  
-The Firefox version has been submitted to the AMO store for review; links will be updated in this README and in Releases once approved. Please wait patiently for the official release.
 
 ---
 
