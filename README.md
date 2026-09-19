@@ -1,7 +1,7 @@
 # Hx0 数据卫士（Hx0 DataGuard）
 
 [![Chrome 应用商店](https://img.shields.io/badge/Chrome%20应用商店-v1.0.7-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/hx0-%E6%95%B0%E6%8D%AE%E5%8D%AB%E5%A3%AB/hkhjbfajliglkonhfpkfkkdcdobikfig)
-![Firefox 应用商店](https://img.shields.io/badge/Firefox%20AMO-应用商店-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
+![Firefox 应用商店](https://img.shields.io/badge/Firefox%20AMO-v1.0.7-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
 ![形态](https://img.shields.io/badge/形态-浏览器扩展-007AFF?style=flat-square)
 ![计算](https://img.shields.io/badge/计算-本地运行-4CAF50?style=flat-square)
 ![隐私](https://img.shields.io/badge/隐私-不上传页面正文-0D9488?style=flat-square)
